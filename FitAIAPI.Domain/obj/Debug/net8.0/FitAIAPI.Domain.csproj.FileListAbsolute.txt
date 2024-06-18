@@ -1,0 +1,13 @@
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\bin\Debug\net8.0\FitAIAPI.Domain.deps.json
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\bin\Debug\net8.0\FitAIAPI.Domain.dll
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\bin\Debug\net8.0\FitAIAPI.Domain.pdb
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\obj\Debug\net8.0\FitAIAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\obj\Debug\net8.0\FitAIAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\obj\Debug\net8.0\FitAIAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\obj\Debug\net8.0\FitAIAPI.Domain.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\obj\Debug\net8.0\FitAIAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\obj\Debug\net8.0\FitAIAPI.Domain.sourcelink.json
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\obj\Debug\net8.0\FitAIAPI.Domain.dll
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\obj\Debug\net8.0\refint\FitAIAPI.Domain.dll
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\obj\Debug\net8.0\FitAIAPI.Domain.pdb
+C:\Users\Fatih\Desktop\FitAI\FitAIApi\FitAIAPI.Domain\obj\Debug\net8.0\ref\FitAIAPI.Domain.dll
